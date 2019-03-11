@@ -21,7 +21,7 @@ Tudo certo com a fonte? Então vamos ao segundo passo!
 2 - Baixando o tema para seu terminal:
 
 Em uma pasta a sua escolha, dê um clone no projeto.</br>
-É necessário ter o git instalado. Para saber mais, clique aqui. 
+É necessário ter o git instalado. Para saber mais, [clique aqui](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git). 
 
 ```$ git clone https://github.com/dracula/terminal-app.git```
 
